@@ -17,8 +17,6 @@ Add, delete, and mark tasks as completed with a clear interface.
 - HTML & CSS / Tailwind CSS for styling  
 - Vite  
 - Fetch API / Axios for API calls  
-- Git & GitHub for version control  
-
 
 ## How to Run Locally
 
