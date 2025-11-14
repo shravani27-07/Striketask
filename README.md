@@ -11,10 +11,14 @@ Add, delete, and mark tasks as completed with a clear interface.
 - State managed using **Redux** (for React version) or plain JS (for HTML version)
 
 ## Tech Stack
-- HTML
-- JavaScript
-- React + Redux
-- Vite
+- React (JSX & Functional Components)  
+- Redux & Redux Toolkit for state management  
+- JavaScript 
+- HTML & CSS / Tailwind CSS for styling  
+- Vite  
+- Fetch API / Axios for API calls  
+- Git & GitHub for version control  
+
 
 ## How to Run Locally
 
