@@ -19,6 +19,12 @@ Add, delete, and mark tasks as completed with a clear interface.
 - Fetch API / Axios for API calls  
 
 ## How to Run Locally
+ - npm run dev
+
+### Live Demo 🚀
+Paste the link in the Website field.
+
+    https://striketask.vercel.app/
 
 ### HTML Version
 1. Clone this repository:
