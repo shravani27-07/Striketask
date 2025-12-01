@@ -20,8 +20,8 @@ export default function Todo() {
     return(
         <>
         <AddForm />
-        <h2>Todo List App</h2>
-        <ul>
+        {/*<h2>Todo List App</h2>*/}
+        <ul style={{ listStylePosition: "inside", paddingLeft: 0, marginLeft: 0 }}>
             {todos.map((todo) => (
                 <li key={todo.id}>
                     <span style={{textDecoration: todo.isDone ? "line-through" : "none",}}>
